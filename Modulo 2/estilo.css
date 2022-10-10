@@ -1,0 +1,63 @@
+*{
+    font-family: Arial,sans-serif;
+  }
+  
+  body{
+   
+    background-color: #00c3ff;
+  margin: 0;
+  
+  
+  }
+  
+  header{
+    color: #f0f0f0;
+    text-align: center;
+    background-color: rgb(76, 0, 255);
+    border-radius: 100px; 
+    margin-left: 300px;
+    margin-right: 250px;
+    padding: 2px;
+    margin-top: 20px;
+    
+  }
+  
+.container {
+    background-color: rgb(76, 0, 255);
+    border-radius: 10px; /* deixar as bordas redonda */
+     box-shadow: 0 2px 5px rgba(0, 255, 64, 0.3);  /* deixar sombra em volta*/
+     width: 400px;  
+     max-width: 100%; 
+     overflow: hidden;  /* deixar as bordas redonda */
+     margin-left: 500px;
+     margin-top: 40px;
+     text-align: center;
+     color: #f0f0f0;
+     
+  }
+  
+  .form-control {
+    margin-bottom: 1px; 
+   padding-bottom: 10px; 
+  
+ 
+  }
+  
+  .form-control label {
+    display: inline-block;
+    margin-bottom: 5px;  
+   
+  
+  }
+  
+  .form-control input{
+    border: 2px solid #f0f0f0;  /* cor da borda da caixa de texto */
+     /* alargar o espaço entre as caixa de texto */
+    border-radius: 10px;
+    font-size: 14px;
+    width: 300px; /* caixa de informações largura */
+    padding: 17px; /* alargar a caixa de informações */
+  
+  
+  } 
+  
